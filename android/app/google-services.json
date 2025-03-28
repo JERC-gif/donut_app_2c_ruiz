@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70024593636",
+    "project_id": "intento-2--26-marzo-2025",
+    "storage_bucket": "intento-2--26-marzo-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70024593636:android:812a905e341d154e83acf1",
+        "android_client_info": {
+          "package_name": "com.example.donut_app_2c_ruiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBeOLPdXRrCvlyM_1zsaGiPBi4Uz5NVsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
